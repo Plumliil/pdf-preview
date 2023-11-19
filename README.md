@@ -20,3 +20,8 @@
 全局搜索 `mark-li : 使用CDN加载签名字体` 即可修改配置
 
 本地字体文件夹目录为 `public/pdfjs/web/cmaps`
+
+
+### 预览地址
+
+具体效果可查看 [Pdf Preview Demo](https://pdf.plumliil.cn/)
