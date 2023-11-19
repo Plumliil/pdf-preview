@@ -5650,6 +5650,7 @@
           value: true,
           kind: OptionKind.API,
         },
+        // mark-li : 使用CDN加载签名字体 
         cMapUrl: {
           // value: "https://cdn.jsdelivr.net/npm/pdfjs-dist@2.0.943/cmaps/",
           // 读本地字体
